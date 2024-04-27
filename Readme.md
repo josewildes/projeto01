@@ -4,3 +4,4 @@ Este é o meu primeiro projeto utilizando o **Git** e **Github**.
 
 - Adicionando mais uma linha ao arquivo Readme.md
 - Fazendo modificações no arquivo hello_world.py
+- Adicionando nova funcionalidade
